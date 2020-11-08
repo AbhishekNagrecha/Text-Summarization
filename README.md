@@ -23,3 +23,11 @@ required. In this approach, we use Convolutional Neural Networks
 to classify and represent complex features from the medical
 discharge summaries using the MT sample dataset. We make use
 of GloVE to have a pretrained model learn from it.
+
+We implemented our CNN model on MT samples dataset
+with multiple layers being added and removed to improve the
+efficiency. Our training accuracy increases with every epoch
+and reaches 0.87 and the validation accuracy is at 0.89 as
+shown in the graph 1. The model during its validation set also
+achieved a recall score of 0.888, precision of 0.98 and an F1
+score of 0.939.
