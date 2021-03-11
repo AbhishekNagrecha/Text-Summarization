@@ -1,5 +1,4 @@
 # Text-Summarization-and-Classification-of-Clinical-Discharge-Summaries-using-Deep-Learning
-https://www.researchgate.net/publication/340407380_Text_Summarization_and_Classification_of_Clinical_Discharge_Summaries_using_Deep_Learning
 Clinical Discharge Summaries contain a huge amount
 of data but are difficult to obtain and to be used in analysis because
 of its unstructured narrative format. Also, they contain spelling
