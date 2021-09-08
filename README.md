@@ -15,7 +15,7 @@ effectiveness of the physician in saving the lives of the sufferers,
 we suggest a classification of the Clinical Discharge Summaries
 text, which aims to automatically predict the diagnoses needed for
 a patient based on clinical notes. The reminiscence is represented
-by a raw text file with doctor's entnaaries about the patient
+by a raw text file with doctor's entries about the patient
 including his / her age, problems described in normal flow, history
 of the patient and so on. 
 
